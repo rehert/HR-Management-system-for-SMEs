@@ -21,6 +21,14 @@ The system allows employees to submit leave requests and view their leave histor
 - Tkinter
 - CSV file handling
 
+## Screenshots
+
+### Worker View
+![Worker View](worker_view.png)
+
+### HR View
+![HR View](hr_view.png)
+
 ## Project Purpose
 
 This project was developed to apply programming and Business Management and Information Technology knowledge to a practical HR problem faced by SMEs.
