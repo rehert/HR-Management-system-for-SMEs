@@ -24,10 +24,10 @@ The system allows employees to submit leave requests and view their leave histor
 ## Screenshots
 
 ### Worker View
-![Worker View](worker_view.png)
+![Worker view](worker_view.png)
 
 ### HR View
-![HR View](hr_view.png)
+![HR view](hr_view.png)
 
 ## Project Purpose
 
